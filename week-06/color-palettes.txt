@@ -21,8 +21,9 @@ I chose the dark red colors because I’ve noticed that advertising for high-end
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename: Shaded Color Palette.png
 Explanation of your color choices:
+For my shaded color palette I chose green with yellow because green portrays the plants that produce organic foods and green/yellow shows the colors of nature.  Also, I chose this green/yellow palette because it is a lighter color and it makes it more inviting, much like natural and organic foods are welcoming and promote a happier healthier lifestyle.
 
 * A complementary palette for a banking website.
 
