@@ -33,5 +33,7 @@ For my complementary palette I chose dark colors that had more business appeal s
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename: Triadic Palette
 Explanation of your color choices:
+For my Triadic Palette I tried to choose the most colorful colors I could, nothing too bright and nothing too dark.  Since it would be a website that offers games for children I figured these colors in my triadic palette would appeal to them the most and I tried to not make them too distracting.
+
