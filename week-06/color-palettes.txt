@@ -27,8 +27,9 @@ For my shaded color palette I chose green with yellow because green portrays the
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: A Complementary Palette
 Explanation of your color choices:
+For my complementary palette I chose dark colors that had more business appeal since this would be for a banking website.  When it comes to banking I usually think of blue as a lot of ATMs have blue lighting and blue is becoming a popular color choice for banking.
 
 * A triadic palette for a website that offers games for children.
 
