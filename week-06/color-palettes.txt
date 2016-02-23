@@ -15,8 +15,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
+Filename: Monochromatic Palette.png
 Explanation of your color choices:
+I chose the dark red colors because I’ve noticed that advertising for high-end, custom-made gaming laptops are presented dark colored with black.  Usually the design color of these laptops are also dark as well.  Dark red stood out to me for gaming laptops.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
