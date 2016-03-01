@@ -26,8 +26,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/StartingStopping.html#//apple_ref/doc/uid/TP40006556-CH52-SW1
 * How you implemented it in your sketch:
+I implemented this in my sketch my showing the login screen starting instantly.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
