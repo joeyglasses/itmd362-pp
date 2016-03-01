@@ -34,5 +34,6 @@ I implemented this in my sketch my showing the login screen starting instantly.
 * How you implemented it in your sketch:
 I implemented this in my sketch by showing how the login page could be adaptable on landscape mode.
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
 * How you implemented it in your sketch:
+I implemented this in my sketch by showing a top navigation bar for the login page.
