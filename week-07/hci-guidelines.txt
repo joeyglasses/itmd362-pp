@@ -30,8 +30,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * How you implemented it in your sketch:
 I implemented this in my sketch my showing the login screen starting instantly.
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LayoutandAppearance.html#//apple_ref/doc/uid/TP40006556-CH54-SW1
 * How you implemented it in your sketch:
+I implemented this in my sketch by showing how the login page could be adaptable on landscape mode.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
